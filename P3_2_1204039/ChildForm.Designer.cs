@@ -47,6 +47,7 @@ namespace P3_2_1204039
             this.OutputLabel.Name = "OutputLabel";
             this.OutputLabel.Size = new System.Drawing.Size(292, 32);
             this.OutputLabel.TabIndex = 0;
+            this.OutputLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // ExitButton
             // 
